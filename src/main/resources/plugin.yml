@@ -1,0 +1,13 @@
+name: GreeterPlugin
+version: 1.0
+description: A test plugin that greets players on entering the server.
+author: benschau
+
+main: plugin.test.GreeterPlugin
+
+commands:
+    help:
+        description: Get available commands.
+        usage: /<command>
+
+permissions: {}
